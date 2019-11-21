@@ -1,1 +1,2 @@
 # Password-Generator
+This is a password generator. It was designed to give you the most secure password possible by giving you an array of random letters, numbers and symbols so it will be hard for somebody to hack your account. There is also an option to copy your password to your clipboard which makes it easy to copy and paste. In the bottom right corner of the screen, there is my contact info for you to reach me on LinkedIn, FaceBook, or Instagram.
